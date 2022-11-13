@@ -4,7 +4,6 @@ from Get_info.print_info_movie import PrintInfoMovie
 from PIL import Image
 
 
-
 movieSearchTitle=input("What movie are you looking for ? ")
 
 try:

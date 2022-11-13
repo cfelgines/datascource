@@ -7,7 +7,7 @@ from Get_info.versioning_event import VersioningEvent
 class IMDbResult:
     
     def get_infos(moviesearch):
-        key="k_dz8a6i8j"
+        key=GetKeyInfo.get_key()
       #  url = "https://imdb-api.com/en/API/SearchMovie/"+str(GetKeyInfo.get_key())+"/"+moviesearch
         url= "https://imdb-api.com/en/API/SearchMovie/"+key+"/"+moviesearch
         try:

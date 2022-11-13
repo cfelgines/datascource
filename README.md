@@ -2,19 +2,23 @@
 
 ### 1) Clone the repository
 
-### 2) Open a terminal
+### 2) Register onto IMDB API: https://imdb-api.com/
 
-### 3) Get yourself into the right folder "API_SearchMovieInfo"
+### 3) Replace the key into key.env by your imdb account key
 
-### 4) Install dependencies typing: 
+### 4) Open a terminal
+
+### 5) Get yourself into the right folder "API_SearchMovieInfo"
+
+### 6) Install dependencies typing: 
 
 pip install requests \
 pip install python-dotenv \
 pip install os \
 pip install pathlib
 
-### 5) Run with "python3 main.py"
+### 7) Run with "python3 main.py"
 
-### 6) Type the movie you're searching about
+### 8) Type the movie you're searching about
 
-### 7) Enjoy the informations !
+### 9) Enjoy the informations !
