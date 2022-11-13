@@ -1,18 +1,20 @@
 # How to search movie's informations ?
 
-### 1) Open a terminal
+### 1) Clone the repository
 
-### 2) Get yourself into the right folder "API_SearchMovieInfo"
+### 2) Open a terminal
 
-### 3) Install dependencies typing: 
+### 3) Get yourself into the right folder "API_SearchMovieInfo"
+
+### 4) Install dependencies typing: 
 
 pip install requests \
 pip install python-dotenv \
 pip install os \
 pip install pathlib
 
-### 4) Run with "python3 main.py"
+### 5) Run with "python3 main.py"
 
-### 5) Type the movie you're searching about
+### 6) Type the movie you're searching about
 
-### 6) Enjoy the informations !
+### 7) Enjoy the informations !
